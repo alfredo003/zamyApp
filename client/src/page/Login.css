@@ -1,0 +1,68 @@
+
+.container-from-main h2{
+  text-align: center;
+}
+.container-from-main{
+  color: #222;
+  position: fixed;
+  width: 100%;
+  top: 2rem;
+  z-index: 1000;
+}
+.container-form{
+  background-color: white;
+  padding: 1rem;
+  max-width: 420px; 
+  box-shadow: 0 1px 3px rgba(0,0,0,0.15);
+  margin:0 auto;
+  display: grid;
+  opacity: 0;
+  gap: 0.5rem;
+  transform: translateX(2rem);
+  animation: slidUp .5s forwards;
+}
+@keyframes slidUp{
+  to{
+    transform: initial;
+    opacity: initial;
+  }
+}
+.container-form input{
+  padding: 0.8rem 1rem;
+  margin: 5px;
+}
+.container-form label{
+  margin-top: 10px;
+  color: #505050;
+}
+
+.login-btn{
+  font-size: 1rem;
+  font-weight: bold;
+  text-transform: uppercase; 
+  background-color: #f717c7;
+  color: white;
+  cursor:pointer; 
+  border: none;
+  padding: 0.8rem 1rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.footer{
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  font-weight: 700;
+  color: #505050;
+}
+.footer a{
+  text-decoration: none;
+}
+
+@media (min-width:375px) and (max-width:667px){
+  .container-form input{
+   font-size: 1rem;
+  }
+}
+

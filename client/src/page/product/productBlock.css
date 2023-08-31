@@ -1,0 +1,30 @@
+.product_img img{
+  max-width: 100%;
+  display: block;
+}
+.product_legend{
+ background-color: #3f51b5;
+ padding: 10px;
+ color: #fff;
+ text-align: center;
+ text-transform: uppercase;
+ font-weight: bolder;
+}
+.product_legend .nameProduct{
+  display: block;
+  font-size: 12pt;
+  
+}
+.product_legend span{
+  margin: 5px;
+  font-size: 10pt;
+}
+.small{
+  padding: 7px;
+  margin: 5px;
+}
+.product_config{
+  margin-top: 10px;
+ border-top:1px dashed #ffffff80;
+ padding: 5px;
+}

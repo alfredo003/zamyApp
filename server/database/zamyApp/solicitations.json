@@ -1,0 +1,48 @@
+[
+  {
+    "_id": 1691189234635,
+    "product": 1,
+    "typePayment": "TPE",
+    "user": 1,
+    "status": "activo",
+    "created_at": "04/08/2023, 23:47:14"
+  },
+  {
+    "_id": 1691189251340,
+    "product": 1,
+    "typePayment": "TPE",
+    "user": 1,
+    "status": "activo",
+    "created_at": "04/08/2023, 23:47:31"
+  },
+  {
+    "_id": 1691189291584,
+    "product": 1,
+    "typePayment": "TPE",
+    "status": "activo",
+    "created_at": "04/08/2023, 23:48:11"
+  },
+  {
+    "_id": 1691189328244,
+    "product": 1,
+    "typePayment": "TPE",
+    "status": "activo",
+    "created_at": "04/08/2023, 23:48:48"
+  },
+  {
+    "_id": 1691189364089,
+    "product": 1,
+    "typePayment": "TPE",
+    "user": 1691065892202,
+    "status": "activo",
+    "created_at": "04/08/2023, 23:49:24"
+  },
+  {
+    "_id": 1693342381945,
+    "product": 1,
+    "typePayment": "TPE",
+    "user": 1691065892202,
+    "status": "activo",
+    "created_at": "29/08/2023, 22:53:01"
+  }
+]

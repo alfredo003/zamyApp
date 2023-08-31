@@ -1,0 +1,18 @@
+[
+  {
+    "_id": 1693341532195,
+    "message": "opeopme",
+    "receptor": "test",
+    "emissor": "test",
+    "status": "Active",
+    "created_at": "29/08/2023, 22:38:52"
+  },
+  {
+    "_id": 1693342381992,
+    "message": "qwqw",
+    "receptor": "qwwqw",
+    "emissor": "qwqw",
+    "status": "Active",
+    "created_at": "29/08/2023, 22:53:01"
+  }
+]

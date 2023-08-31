@@ -1,0 +1,51 @@
+[
+  {
+    "_id": 1691065892202,
+    "first_name": "Alfredo",
+    "last_name": "manuel",
+    "n_phone": "12345",
+    "password": "$2b$10$XTZPY7CBZTG2d4gqSs4Hku7XEPp8wQ3A9.cN7WDpqyIqMxVM6L5K.",
+    "lavelAccess": "admin",
+    "status": "block",
+    "created_at": "3003"
+  },
+  {
+    "_id": 1692267854748,
+    "first_name": "alfredo003",
+    "last_name": "manuel",
+    "n_phone": "12",
+    "password": "$2b$10$5HhRxF4ROz9MZXnFqpjfFO7T7eDlwWNQo1wOfop9X4.cgDYJntZpW",
+    "lavelAccess": "user",
+    "status": "active",
+    "created_at": "17/08/2023, 11:24:14"
+  },
+  {
+    "_id": 1692268310021,
+    "first_name": "alfredo003",
+    "last_name": "manuel",
+    "n_phone": "102",
+    "password": {},
+    "lavelAccess": "user",
+    "status": "active",
+    "created_at": "17/08/2023, 11:31:49"
+  },
+  {
+    "_id": 1692268400407,
+    "first_name": "alfredo003",
+    "last_name": "manuel",
+    "n_phone": "1002",
+    "password": {},
+    "lavelAccess": "user",
+    "status": "active",
+    "created_at": "17/08/2023, 11:33:20"
+  },
+  {
+    "_id": 1693142271062,
+    "first_name": "Rosalina",
+    "last_name": "manuel",
+    "n_phone": "0007",
+    "password": "$2b$10$AgCjfekzJSW6M5sjXbuLUey9udI4nYqLEUhTY6DOH71ergSrxS8Ce",
+    "lavelAccess": "user",
+    "created_at": "27/08/2023, 15:17:50"
+  }
+]

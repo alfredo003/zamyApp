@@ -1,0 +1,39 @@
+ :root{
+  --default-color:#33333327;
+  --default-color-border:#333;
+
+  --info-color:#007cf84d;
+  --info-color-border:#007cf8;
+
+  --warning-color:#c2cf0a27;
+  --warning-color-border:#c8d602;
+
+  --error-color:#cf0a0a27;
+  --error-color-border:#d60202;
+ }
+ 
+.message{
+  font-size: 11pt;
+  color: #333333;
+  padding: 10px;
+}
+.default{
+  background-color: var(--default-color);
+  border: 2px solid var(--default-color-border);
+}
+
+.warning{
+
+  background-color: var(--warning-color);
+  border: 2px solid var(--warning-color-border);
+}
+.info{
+ 
+  background-color: var(--info-color);
+  border: 2px solid var(--info-color-border);
+}
+.error{
+ 
+  background-color: var(--error-color);
+  border: 2px solid var(--error-color-border);
+}

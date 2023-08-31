@@ -1,0 +1,22 @@
+{
+  "id":2,
+  "photo":"teste",
+  "first_name":"teste",
+  "last_name":"teste",
+  "n_phone":"teste",
+  "password":"teste",
+  "product":1,
+  "solicitation":[
+    {
+     "product":,
+     "name":,
+     "created_at":,
+     "updated_at":,
+    }
+  ],
+  "lavel_access":"teste",
+  "status":"teste",
+  "created_at":"teste",
+  "updated_at":"teste"
+
+}

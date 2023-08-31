@@ -1,0 +1,35 @@
+footer{
+  background-color: #fff;   
+  padding: 10px 0;
+  position: fixed;
+  bottom: 2rem;
+  z-index: 999;
+}
+
+footer a{
+  font-size: 10pt;
+  text-transform: uppercase;
+  margin-left: 30px;
+  transition:0.5s;
+  font-weight: bold;
+  
+}
+
+footer a:hover{
+  color: var(--primary-color);
+}
+footer a.active{
+  padding:10px;
+  border-bottom: 4px solid var(--primary-color);
+}
+
+footer span{
+  width: auto;
+  padding: 4px 8px;
+  background-color: var(--primary-color);
+  border-radius: 50%;
+  color: #fff;
+  margin-right: 4px;
+  font-weight: bold;
+}
+

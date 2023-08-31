@@ -1,0 +1,23 @@
+.menuHome .box{
+  box-shadow: 0 0 20px 0 rgb(112 121 138 /18%);
+  background-color: var(--primary-color);
+  color: hsl(0, 0%, 100%); 
+  text-align: center;
+  padding: 50px;
+  cursor: pointer;
+}
+.menuHome .box h4{
+  text-transform: uppercase;
+}
+
+@media (min-width:375px) and (max-width:667px){
+  .menuHome .box{
+    box-shadow: 0 0 20px 0 rgb(112 121 138 /18%);
+    background-color: var(--primary-color);
+    color: #fff; 
+    text-align: center;
+    padding: 30px;
+    cursor: pointer;
+    margin-bottom: 10px;
+  }
+}

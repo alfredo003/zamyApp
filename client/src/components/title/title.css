@@ -1,0 +1,12 @@
+.title_nav{
+  display:flex;
+  justify-content: right;
+  margin: 20px;
+  padding: 10px;
+  font-size: 10pt;
+  color: #757575;
+}
+.title_nav span{
+ font-weight: bold;
+ color: #3f51b5;
+}
